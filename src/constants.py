@@ -8,8 +8,8 @@ class BiliConstants:
     """B站相关常量"""
 
     # API相关
-    APPKEY = "4409e2ce8ffd12b8"
-    APPSECRET = "59b43e04ad6965f34319062b478f83dd"
+    APPKEY = "783bbb7264451d82"
+    APPSECRET = "2653583c8873dea268ab9386918b1d65"
     APPBUILD = "6731100"
 
     # Headers
